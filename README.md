@@ -10,9 +10,9 @@ so the project is effective job management system with optimized work force allo
 
 
 ## TEAM MEMBERS 
-**ROHIT JHA**
-HARSHIT JAISWAL
-MAINUDDIN KHAN
+**ROHIT JHA** <br />
+HARSHIT JAISWAL <br />
+MAINUDDIN KHAN <br />
 **KHUBAIB KHAN**
 
 ## TECHSTACKS TO BE USED 
